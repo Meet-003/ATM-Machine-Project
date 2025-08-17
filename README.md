@@ -16,9 +16,7 @@ It simulates the basic operations of an ATM such as:
 
 ## Technologies used
 
-- Python 3 ---
-             |___ Numpy
-             |___ Pandas
+- Python 3 --- Numpy, Pandas
 
 ## How to run:
 
