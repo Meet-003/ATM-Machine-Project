@@ -23,12 +23,10 @@ It simulates the basic operations of an ATM such as:
 ## How to run:
 
 1. Clone this repository:
-    ```bash
-    git clone https://github.com/your-username/ATM-Machine-Project.git
-    
-    cd "FOLDER NAME"
 
-    RUN THE PROGRAM
+- git clone https://github.com/your-username/ATM-Machine-Project.git
+- cd "FOLDER NAME"
+- RUN THE PROGRAM
 
 ## Future Improvements
 
